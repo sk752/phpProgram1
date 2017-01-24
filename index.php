@@ -1,3 +1,5 @@
 <?php
-	echo 'First PHP'
+	$var = "Hello";
+	echo $var
+	
 ?>
